@@ -30,10 +30,10 @@ class HangMan {
 	
 	/*  _____
 	      |
-		  O
-		 /|\
-		  |
-		 / \	*/
+	      O
+	     /|\
+	      |
+	     / \	*/
 	
 	public HangMan() {
 		System.out.println("Starting Game!");     
